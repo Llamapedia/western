@@ -23,6 +23,26 @@
         "id": 5,
         "title": "Ice Breaker",
         "pages": 145
+    },
+    {
+        "id": 6,
+        "title": "Riju's Dungeon Date",
+        "pages": 21
+    },
+    {
+        "id": 7,
+        "title": "Date With Mipha",
+        "pages": 31
+    },
+    {
+        "id": 8,
+        "title": "Paya's Night Raid",
+        "pages": 18
+    },
+    {
+        "id": 9,
+        "title": "Drunk Date In Purah",
+        "pages": 18
     }
 
 ]
